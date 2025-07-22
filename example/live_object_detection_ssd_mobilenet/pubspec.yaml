@@ -67,6 +67,7 @@ flutter:
   assets:
     - assets/images/
     - assets/models/
+    - assets/models/ssd_mobilenet.tflite
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

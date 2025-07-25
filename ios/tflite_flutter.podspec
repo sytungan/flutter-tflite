@@ -27,7 +27,7 @@ TensorFlow Lite plugin for Flutter apps.
   s.dependency 'TensorFlowLiteSwift/Metal', tflite_version
   s.dependency 'TensorFlowLiteSwift/CoreML', tflite_version
 
-  s.platform = :ios, '13.0'
+  s.platform = :ios, '14.0'
   s.static_framework = true
 
   # Flutter.framework does not contain a i386 slice.
